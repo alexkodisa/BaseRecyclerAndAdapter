@@ -1,4 +1,4 @@
-
+data/app/flar2.exkernelmanager-xC70HIDohcnFwdbGd945Yw==/lib/arm
 #RecyclerView & RecyclerView.Adapter封装
 
 开源项目:[https://github.com/open-android/BaseRecyclerAndAdapter](https://github.com/open-android/BaseRecyclerAndAdapter "地址")
